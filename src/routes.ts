@@ -6,7 +6,7 @@ window.$ = $;
 global.jQuery = $;
 
 const OtherSamplePage = React.lazy(() => import('./Demo/Other/SamplePage'))
-const Homepage = React.lazy(() => import('./components/pages/Homepage.js'))
+const Homepage = React.lazy(() => import('./components/pages/Homepage'))
 
 
 
