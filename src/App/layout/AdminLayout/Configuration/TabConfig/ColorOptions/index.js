@@ -3,8 +3,8 @@ import {connect} from 'react-redux';
 import PerfectScrollbar from 'react-perfect-scrollbar';
 
 import Aux from "../../../../../../hoc/_Aux";
-import * as actionTypes from "../../../../../../store/actions";
-import DEMO from "../../../../../../store/constant";
+import * as actionTypes from "../../../../../../actions/actions";
+import DEMO from "../../../../../../constants/constant";
 
 class ColorOptions extends Component {
     render() {

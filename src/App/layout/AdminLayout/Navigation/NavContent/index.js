@@ -6,8 +6,8 @@ import windowSize from 'react-window-size';
 
 import Aux from "../../../../../hoc/_Aux";
 import NavGroup from './NavGroup';
-import DEMO from "../../../../../store/constant";
-import * as actionTypes from "../../../../../store/actions";
+import DEMO from "../../../../../constants/constant";
+import * as actionTypes from "../../../../../actions/actions";
 
 class NavContent extends Component {
     state = {

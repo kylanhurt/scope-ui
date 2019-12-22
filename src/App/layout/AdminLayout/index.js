@@ -11,7 +11,7 @@ import Configuration from './Configuration';
 import Loader from "../Loader";
 import routes from "../../../routes";
 import Aux from "../../../hoc/_Aux";
-import * as actionTypes from "../../../store/actions";
+import * as actionTypes from "../../../actions/actions";
 
 //import '../../../app.scss';
 

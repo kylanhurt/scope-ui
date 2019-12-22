@@ -5,8 +5,8 @@ import windowSize from 'react-window-size';
 import NavLeft from "./NavLeft";
 import NavRight from "./NavRight";
 import Aux from "../../../../hoc/_Aux";
-import DEMO from "../../../../store/constant";
-import * as actionTypes from "../../../../store/actions";
+import DEMO from "../../../../constants/constant";
+import * as actionTypes from "../../../../actions/actions";
 
 import logo from '../../../../assets/images/logo.png';
 

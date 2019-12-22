@@ -6,7 +6,7 @@ import windowSize from 'react-window-size';
 import NavContent from './NavContent';
 import OutsideClick from './OutsideClick';
 import Aux from './../../../../hoc/_Aux'
-import * as actionTypes from './../../../../store/actions';
+import * as actionTypes from './../../../../actions/actions';
 import navigation from '../../../../menu-items';
 
 class Navigation extends Component {

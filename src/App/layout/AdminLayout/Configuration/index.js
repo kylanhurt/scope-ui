@@ -3,7 +3,7 @@ import React, {Component}  from 'react';
 import Layout from './Layout';
 import TabConfig from './TabConfig';
 import Aux from "../../../../hoc/_Aux";
-import DEMO from "../../../../store/constant";
+import DEMO from "../../../../constants/constant";
 
 class Configuration extends Component {
     state = {

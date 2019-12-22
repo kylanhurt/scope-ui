@@ -3,7 +3,7 @@ import {Dropdown} from 'react-bootstrap';
 import PerfectScrollbar from 'react-perfect-scrollbar';
 
 import Aux from "../../../../../hoc/_Aux";
-import DEMO from "../../../../../store/constant";
+import DEMO from "../../../../../constants/constant";
 
 import Avatar1 from '../../../../../assets/images/user/avatar-1.jpg';
 import Avatar2 from '../../../../../assets/images/user/avatar-2.jpg';

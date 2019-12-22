@@ -2,7 +2,7 @@ import React from 'react';
 import {Row, Col} from 'react-bootstrap';
 import { css, StyleSheet } from 'aphrodite/no-important';
 import Lightbox from 'react-images-texts-videos';
-import DEMO from "../../store/constant";
+import DEMO from "../../constants/constant";
 
 class Gallery extends React.Component {
     constructor (props) {

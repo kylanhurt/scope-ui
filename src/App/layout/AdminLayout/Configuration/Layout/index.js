@@ -2,8 +2,8 @@ import React, {Component} from 'react';
 import {connect} from 'react-redux';
 
 import Aux from "../../../../../hoc/_Aux";
-import DEMO from "../../../../../store/constant";
-import * as actionTypes from "../../../../../store/actions";
+import DEMO from "../../../../../constants/constant";
+import * as actionTypes from "../../../../../actions/actions";
 
 class Layout extends Component {
     render () {

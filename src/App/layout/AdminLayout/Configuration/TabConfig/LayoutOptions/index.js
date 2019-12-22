@@ -3,7 +3,7 @@ import {connect} from 'react-redux';
 import PerfectScrollbar from 'react-perfect-scrollbar';
 
 import Aux from "../../../../../../hoc/_Aux";
-import * as actionTypes from "../../../../../../store/actions";
+import * as actionTypes from "../../../../../../actions/actions";
 
 class LayoutOptions extends Component {
     render() {
